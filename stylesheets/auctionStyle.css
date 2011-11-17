@@ -1,0 +1,141 @@
+.auctionBody {
+	float: right;	
+	padding: 10px 20px 40px 20px;
+  width: 740px;
+	font-size: 14px;
+}
+
+.auctionLinks {
+  float: left;
+  padding: 10px 10px 10px 10px;
+  width: 110px;
+	background: #8fdb8f;
+}
+
+.auctionLinks ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px 0px 0px 0px;
+	border: none;
+}
+
+.auctionLinks li {
+	font-size: 10pt;
+	list-style: none;
+	margin: 0px 0px 10px 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+.auctionBody th {
+	background: #EDEDED;
+	line-height: 200%;
+}
+
+.auctionBody td {
+	line-height: 150%;
+	padding: 10px 0px 0px 5px;
+}
+
+#contactSeller td {
+	line-height: 200%;
+	padding: 0px 0px 0px 10px;
+}
+
+#contactSeller .messageHeading {
+	padding: 10px 0px 0px 0px;
+	vertical-align: top;
+	width: 100px;
+}
+
+#contactSeller .messageText {
+	padding: 10px 0px 0px 10px;
+}
+
+#contactSeller .submit {
+	text-align: right;
+	padding: 0px 0px 0px 0px;
+}
+
+#contactSeller .text {
+	line-height: 150%;
+}
+
+#purchaseTable .item {
+	width: 300px;
+}
+
+#purchaseTable .cost {
+	width: 100px;
+}
+
+#purchaseTable .seller {
+	width: 100px;
+	text-align: center;
+}
+
+#purchaseTable .feedback {
+	width: 100px;
+}
+
+#purchaseTable .contact {
+	width: 100px;
+}
+
+#listing {
+	width: 760px;
+}
+
+#listing h2 {
+	font-size: 15px;
+	border: 0px;
+}
+
+#listing .photo {
+	margin: 0px 0px 0px 0px;
+	padding: 5px 10px 0px 0px;
+	text-align: left;
+	border-right: solid 1px grey;
+	width: 200px;
+}
+
+#listing .photo img {
+padding: 0px;
+margin: 0px;
+				border-radius: 4px;
+}
+
+#listing .details {
+	padding: 0px 0px 0px 10px;
+	line-height: 26px;
+	vertical-align: middle;
+	font-size: 14px;
+	width: 400px;
+}
+
+#listing .details h1 {
+	font-size: 18px;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#listing .body {
+	margin: 10px 20px 0px 0px;
+	background: #EDEDED;
+	border: grey solid 1px;
+	border-radius: 4px;
+	padding: 10px;
+	font-size: 14px;
+}
+
+#createForm th {
+	text-align: right;
+	padding: 5px 10px 5px 0px;
+	width: 150px;
+	vertical-align: top;
+}
+
+#createForm td {
+	padding: 5px 0px 5px 10px;
+}
