@@ -4,26 +4,46 @@
   width: 740px;
 }
 
-.auctionLinks {
+.marketplaceLinks {
   float: left;
   padding: 10px 10px 10px 10px;
   width: 110px;
 	background: #8fdb8f;
+	overflow: auto;
+	font-size: 13px;
 }
 
-.auctionLinks ul {
+.marketplaceLinks ul {
 	list-style: none;
 	margin: 0px;
 	padding: 0px 0px 0px 0px;
 	border: none;
 }
 
-.auctionLinks li {
-	font-size: 10pt;
+.marketplaceLinks li {
+	font-size: 12px;
 	list-style: none;
-	margin: 0px 0px 10px 0px;
+	margin: 0px 0px 5px 0px;
 	padding: 0px;
 	border: 0px;
+}
+
+.marketplaceLinks a, .marketplaceLinks p {
+	 font-size: 12px;
+}
+
+.marketplaceLinks .marketplaceLinkHeadingTopDiv {
+	font-weight: bold;
+	border-bottom: 1px solid green;
+	margin: 5px 0px 5px 0px;
+	padding: 0px 0px 2px 0px;
+}
+
+.marketplaceLinks .marketplaceLinkHeading {
+	font-weight: bold;
+	border-bottom: 1px solid green;
+	margin: 20px 0px 5px 0px;
+  padding: 0px 0px 2px 0px;
 }
 
 .auctionBody th {

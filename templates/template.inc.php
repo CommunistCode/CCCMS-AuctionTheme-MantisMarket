@@ -22,9 +22,9 @@
 			</div>
 			<div id='body'>
 
-				<div class="auctionLinks">
+				<div class="marketplaceLinks">
 					<?php
-						require_once("includes/auctionLinks.inc.php");
+						require_once("includes/marketplaceLinks.inc.php");
 					?>
 				</div>
 			
